@@ -13,7 +13,7 @@ const app = express()
 /** middleware */
 app.use(express.json())
 
-app.use('/api/products', productRoutes)
+app.use('http://localhost:5000/api/products', productRoutes)
 
 
 const PORT = process.env.PORT || 5000
