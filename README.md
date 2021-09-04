@@ -1,6 +1,6 @@
 # Full Stack eCommerce Cart build (React, Redux, Node, Express, MongoDB)
 
-I built a full-stack e-commerce cart from scratch using React and Redux for our frontend and Node, Express, and MongoDB for our backend. We will be doing everything on our own from setting up the backend API to styling our components.
+I built a full-stack e-commerce cart from scratch using React and Redux for our frontend and Node, Express, and MongoDB for our backend.I did everything on my own from setting up the backend API to styling our components.
 
 if you want to check more projects with react and redux, I left more of them in the next links below
 https://github.com/TotoroDavid/fake-shop-using-redux- </br>
